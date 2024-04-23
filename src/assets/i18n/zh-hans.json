@@ -2817,7 +2817,7 @@
   "Options": "选项",
   "Options cannot be loaded": "选项无法被加载",
   "Options for encrypting the LDAP connection:  <ul>  <li><i>OFF:</i> do not encrypt the LDAP connection.</li>  <li><i>ON:</i> encrypt the LDAP connection with <i>SSL</i> on port  <i>636</i>.</li>  <li><i>START_TLS:</i> encrypt the LDAP connection with <i>STARTTLS</i>  on the default LDAP port <i>389</i>.</li>  </ul>": "用于加密 LDAP 连接的选项：<ul> <li> <i>关闭：</i>不加密 LDAP 连接。</li><li> <i>打开：</i>使用<i> 636 </i>端口上的<i> SSL </i>加密 LDAP 连接。</li><li> <i> START_TLS：</i>使用默认 LDAP 端口<i> 389 </i>上的<i> STARTTLS </i>加密 LDAP 连接。</li> </ul>",
-  "Order": "命令",
+  "Order": "顺序",
   "Organization": "组织",
   "Organizational Unit": "组织单位",
   "Organizational unit of the entity.": "实体组织单位。",
